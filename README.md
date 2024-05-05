@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/matthewridgway.deximo/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/matthewridgway.deximo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-ridgway-deximo-51446123b/) 
 
 # 💻 Tech Stack:
-# ToDo -- Add list of technologies used
+<!--- ToDo -- Add list of technologies used --> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=matthewridgwaydeximo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
